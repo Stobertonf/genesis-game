@@ -46,3 +46,7 @@ body {
   grid-area: verde;
   background-color: green;
 }
+
+.selected {
+  opacity: 0.8;
+}
